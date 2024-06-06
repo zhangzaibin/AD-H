@@ -20,6 +20,6 @@
 
 
 
-## 😋 Todos
+## 😋 To-Do list
 We are currently organizing the code for AD-H. 
 All dataset, checkpoints, and training code will be coming soon.
