@@ -6,7 +6,7 @@
 
 
 
-[![arXiv](https://img.shields.io/badge/arXiv%20papr-2403.12037-b31b1b.svg)](https://arxiv.org/abs/2406.03474)&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv%20papr-2406.03474-b31b1b.svg)](https://arxiv.org/abs/2406.03474)&nbsp;
 
 
 </div>
