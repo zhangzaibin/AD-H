@@ -11,7 +11,7 @@
 ## 🔥 Updates
 
 - **[2024-06]** AD-H is released on [arXiv](https://arxiv.org/abs/2406.03474).
-- **[2025-05]** Inference/evaluation code is released.
+- **[2026-05]** Inference/evaluation code is released.
 
 ## 📖 Overview
 
