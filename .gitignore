@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+__pycache__
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+*.pkl
+*.csv
+*.iml
+*.egg-info/
+
+data/eval/*
+CARLA_0.9.15
+checkpoints/*

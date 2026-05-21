@@ -1,0 +1,7 @@
+{
+  "python.analysis.extraPaths": [
+    "./quick_imports",
+    "./leaderboard",
+    "./scenario_runner",
+  ]
+}
